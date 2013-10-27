@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+<TITLE>System ready</TITLE>
+</HEAD>
+<BODY>
+<p>
+Healeyious build<br>
+<br>
+</p>
+<?php phpinfo(); ?>
+</BODY>
+</HTML>
